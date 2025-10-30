@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini API Terminal Explorer",
+  "description": "A terminal-like web interface to explore the various capabilities of the Google Gemini API, including text generation, chat, function calling, grounding, and multimodality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
